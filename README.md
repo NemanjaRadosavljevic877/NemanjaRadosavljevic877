@@ -20,25 +20,6 @@ My goal is to continue pushing boundaries, deliver production-ready software, an
 
 ---
 
-## 🔹 **Core Skills**
-### AI/ML:
-- OpenAI API (GPT-4, Whisper), Gemini, LangChain, Retrieval Augmented Generation (RAG)
-- Prompt Engineering & AI-Powered UIs
-
-### Frontend:
-- React, Next.js, TypeScript, Zustand, WebSocket, Electron
-
-### Backend:
-- Python (Flask, FastAPI), C#, Node.js, JSP
-
-### Systems:
-- C++, Windows APIs, Encrypted Data Transport, Native Loaders, Process Telemetry
-
-### Tools:
-- Docker, GitHub Actions, PyCryptodome, FFmpeg, SQLite/PostgreSQL, CI/CD, Vercel
-
----
-
 ## 🔹 **Tech Stack**
 Here are the tools and technologies I work with:
 
@@ -62,31 +43,6 @@ Here are the tools and technologies I work with:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-FF7F00?logo=ffmpeg&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-
----
-
-## 🔹 **Professional Experience**
-
-### **Software Developer**  
-**CyberSec Serbia**, Belgrade, Serbia  
-*Aug 2020 – Apr 2025*
-- Designed and deployed **browser-based forensic dashboards** for real-time telemetry and encrypted memory capture (React + Python + WebSocket).
-- Developed **secure backend systems** for file systems, session logs, and event streams.
-- Built **AI-enhanced monitoring UIs** where **LLMs** interpreted session data and generated incident summaries.
-- Integrated **custom GPT flows** using LangChain and local vector databases for context-aware prompt chaining.
-
-**Technologies Used**: OpenAI API, LangChain, React, Flask, C#, WebSocket, PostgreSQL, Docker
-
----
-
-### **Junior Developer**  
-**Informatica Forensics**, Belgrade, Serbia  
-*Jul 2017 – Apr 2020*
-- Developed **internal forensic tools** for system monitoring and diagnostics, focusing on desktop environments.
-- Built UI components in **React** and **JSP** for operator control panels.
-- Created backend logic in **Python** and **C#** for log extraction, system call analysis, and encrypted reporting.
-
-**Technologies Used**: React, Python, C#, JSP, PostgreSQL
 
 ---
 
