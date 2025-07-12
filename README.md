@@ -7,6 +7,10 @@ Welcome to my GitHub! I’m a passionate **Full-Stack Engineer** and **AI Expert
 
 Currently, I’m focusing on applying **AI** in real-world applications, building **GPT-based** integrations, and crafting intuitive user interfaces that make AI accessible in everyday workflows. I’m always excited to collaborate on projects that involve solving complex engineering challenges!
 
+<p align="center">
+  <img src="./logo.png" alt="My Banner" width="80%" height="auto"/>
+</p>
+
 ---
 
 ## 🔹 **Professional Summary**
